@@ -194,7 +194,7 @@ export default function Home() {
                 </Button>
               </div>
               <div className="relative h-[400px] rounded-lg overflow-hidden">
-                <Image src="/placeholder.svg?height=400&width=600" alt="Cycling Joy" fill className="object-cover" />
+                <Image src="/shot1.jpeg?height=400&width=600" alt="Cycling Joy" fill className="object-cover" />
               </div>
             </div>
           </div>
