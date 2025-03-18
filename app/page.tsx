@@ -151,7 +151,7 @@ export default function Home() {
         <section className="relative h-[600px] w-full">
           <div className="absolute inset-0 bg-black/40 z-10" />
           <Image
-            src="/shot1.jpeg"
+            src="/shot3.jpeg"
             alt="Banditz Bicycle Club"
             fill
             className="object-cover"
